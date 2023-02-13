@@ -1,1 +1,1 @@
-# Unixe, Shell e Git
+# Unix, Shell e Git
