@@ -12,7 +12,6 @@ if (!lotteryNumbers.includes(randomNumber)){
 
 }
 
-
 //Comparação do sorteio com o meu jogo
 let numberOfHits = 0;
 let hits = [];
