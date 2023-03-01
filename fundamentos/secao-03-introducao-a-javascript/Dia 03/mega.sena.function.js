@@ -39,12 +39,6 @@ for (let indexLottery = 0; indexLottery < lotteryNumbers.length;indexLottery += 
 
 
 
-
-
-
-
-
-
 //console.log(Math.random() * 60); /* Gera um número aleatória entr 0 e 60 */
 //console.log(Math.ceil(Math.random() * 60)); /* Arredonda o número para cima */
-//Math.floor()/* Arredonda o número para baixo */
+//Math.floor()/* Arredonda o número para baixo */ 
