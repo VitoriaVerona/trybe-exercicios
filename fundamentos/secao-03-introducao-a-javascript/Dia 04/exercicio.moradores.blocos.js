@@ -50,3 +50,5 @@ console.log('O morador do bloco 2 de nome ' + ultimoMoradorBlocoDois['nome'] + '
   for (let index = 0; index < moradores.blocoDois.length; index++) {
     console.log(moradores.blocoDois[index].nome + ' ' + moradores.blocoDois[index].sobrenome);
   }
+
+  
